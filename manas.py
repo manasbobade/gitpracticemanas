@@ -12,3 +12,4 @@ git commit -m ""
 git remote add origin 
 git push -u origin master
 """
+print("manas2")
